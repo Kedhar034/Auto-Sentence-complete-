@@ -20,9 +20,10 @@ Achieved efficient sentence continuation through iterative word predictions.
 Allows users to input a seed sentence and generates up to 10 contextually relevant words.
 Stops generation when a terminal word (e.g., '.') is predicted.
 Technologies Used
-# Programming Language: Python
-# Libraries/Frameworks: TensorFlow, Keras, NumPy, Pandas
-# Model Architecture: Bidirectional LSTM with Embedding
+
+Programming Language: Python
+Libraries/Frameworks: TensorFlow, Keras, NumPy, Pandas
+Model Architecture: Bidirectional LSTM with Embedding
 
 # How It Works
 # Data Preparation:
